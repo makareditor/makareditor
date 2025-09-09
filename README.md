@@ -1,31 +1,11 @@
-<h1 align="center">Makar Ignatenko</h1>
-<h3 align="center">🎬 Professional Video Editor</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="200" />
+  <span style="font-size:60px; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; font-weight: 900;">
+    Makar Ignatenko
+  </span>
 </p>
-
-<p align="center">
-✨ Creative | 🎞️ Storyteller | 🎨 Motion Enthusiast
+<p align="center" style="font-size:24px; color:#aaaaaa;">
+  Professional Video Editor
 </p>
-
----
-
-### 📌 About Me
-- 💻 I edit cinematic videos, social media reels, and commercials  
-- 🎥 Passionate about storytelling through visuals  
-- 🌍 Available for collaborations worldwide  
-
----
-
-### 📫 How to reach me
-- ✉️ Email: **yourmail@example.com**  
-- 📷 Instagram: [instagram.com/yourprofile](https://instagram.com/yourprofile)  
-- 🐦 Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)  
-
----
-
-### ⚡ Fun Stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MakarIgnatenko&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="120"/>
 </p>
