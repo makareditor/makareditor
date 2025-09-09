@@ -1,3 +1,3 @@
-git add assets/NameAnim.gif
-git commit -m "Add neon GIF"
-git push
+<p align="center">
+  <img src="NameAnim.gif" width="600"/>
+</p>
