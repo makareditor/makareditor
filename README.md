@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Makar Ignatenko</h1>
+<h3 align="center">🎬 Professional Video Editor</h3>
 
-<!--
-**makareditor/makareditor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="200" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+✨ Creative | 🎞️ Storyteller | 🎨 Motion Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 About Me
+- 💻 I edit cinematic videos, social media reels, and commercials  
+- 🎥 Passionate about storytelling through visuals  
+- 🌍 Available for collaborations worldwide  
+
+---
+
+### 📫 How to reach me
+- ✉️ Email: **yourmail@example.com**  
+- 📷 Instagram: [instagram.com/yourprofile](https://instagram.com/yourprofile)  
+- 🐦 Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)  
+
+---
+
+### ⚡ Fun Stats
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MakarIgnatenko&show_icons=true&theme=dark&hide_border=true" />
+</p>
