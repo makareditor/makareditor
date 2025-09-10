@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/MakarAnim.gif" width="600"/>
-</p>
-
-<p align="center">
 
   <a href="assets/example1.mp4">
     <img src="assets/example1.gif" width="120" height="120" style="object-fit:cover;"/>
