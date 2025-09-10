@@ -5,7 +5,7 @@
 <p align="center">
 
 <a href="assets/example1.MP4">
-  <img src="assets/example1_thumbnail.png" width="120" style="border-radius:15px; box-shadow:0 0 10px #aaa; margin:5px;">
+  <img src="assets/example1_thumbnail.png" width="60" style="border-radius:15px; box-shadow:0 0 10px #aaa; margin:5px;">
 </a>
 
 <a href="assets/example2.MP4">
