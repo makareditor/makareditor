@@ -11,8 +11,6 @@
     <td><a href="assets/example1.MP4"><img src="assets/example1_thumbnail.png" width="100"></a></td>
     <td><a href="assets/example2.MP4"><img src="assets/example2_thumbnail.png" width="100"></a></td>
     <td><a href="assets/example3.MP4"><img src="assets/example3_thumbnail.png" width="100"></a></td>
-  </tr>
-  <tr>
     <td><a href="assets/example4.MP4"><img src="assets/example4_thumbnail.png" width="100"></a></td>
     <td><a href="assets/example5.MP4"><img src="assets/example5_thumbnail.png" width="100"></a></td>
     <td><a href="assets/example6.MP4"><img src="assets/example6_thumbnail.png" width="100"></a></td>
