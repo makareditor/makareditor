@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- El yazısı fontlu başlık (PNG/SVG olmalı) -->
-  <img src="assets/examples_title.png" alt="Examples" width="200">
+  <img src="assets/examples_title.png" alt="Examples" width="250">
 </p>
 
 <p align="center">
