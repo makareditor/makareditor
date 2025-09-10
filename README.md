@@ -6,6 +6,7 @@
   <img src="assets/examples_title.png" alt="Examples" width="200">
 </p>
 
+
 <table align="center">
   <tr>
     <td><a href="assets/example1.MP4"><img src="assets/example1_thumbnail.png" width="100" style="border-radius:15px;"></a></td>
