@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/MakarAnim.gif" width="600" alt="Logo">
 </p>
-
 <p align="center">
   <img src="assets/examples_title.png" alt="Examples" width="200">
 </p>
