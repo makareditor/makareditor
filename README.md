@@ -3,10 +3,12 @@
 </p>
 
 <p align="center">
-      <video width="120" height="120" style="object-fit: cover;" controls>
-    <source src="assets/example1.MP4" type="video/mp4">
-    Tarayıcınız video etiketini desteklemiyor.
-  </video>
+       <a href="assets/example1.MP4" target="_blank">
+    <video width="120" height="120" style="object-fit: cover;" autoplay loop muted>
+      <source src="assets/example1.gif.mp4" type="video/mp4">
+      Tarayıcınız video etiketini desteklemiyor.
+    </video>
+  </a>
   <a href="assets/example2.gif.mp4" target="_blank">
     <img src="assets/example2.gif.mp4" width="120" height="120" style="object-fit: cover;" alt="Example 2">
   </a>
