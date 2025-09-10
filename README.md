@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="assets/example1.MP4" target="_blank">
-    <img src="assets/example1.gif.mp4" width="120" height="120" style="object-fit: cover;" alt="Example 1">
+    <video src="assets/example1.gif.mp4" width="120" height="120" style="object-fit: cover;" alt="Example 1">
   </a>
   <a href="assets/example2.gif.mp4" target="_blank">
     <img src="assets/example2.gif.mp4" width="120" height="120" style="object-fit: cover;" alt="Example 2">
