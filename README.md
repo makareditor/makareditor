@@ -4,33 +4,33 @@
 
 <p align="center">
   <!-- El yazısı fontlu başlık (PNG/SVG olmalı) -->
-  <img src="assets/examples_title.png" alt="Examples" width="250">
+  <img src="assets/examples_title.png" alt="Examples" width="200">
 </p>
 
 <p align="center">
 
 <a href="assets/example1.MP4">
-  <img src="assets/example1_thumbnail.png" width="100" style="border-radius:15px; margin:10px;">
-</a>
+  <img src="assets/example1_thumbnail.png" width="100">
+</a> &nbsp;&nbsp;
 
 <a href="assets/example2.MP4">
-  <img src="assets/example2_thumbnail.png" width="100" style="border-radius:15px; margin:10px;">
-</a>
+  <img src="assets/example2_thumbnail.png" width="100">
+</a> &nbsp;&nbsp;
 
 <a href="assets/example3.MP4">
-  <img src="assets/example3_thumbnail.png" width="100" style="border-radius:15px; margin:10px;">
-</a>
+  <img src="assets/example3_thumbnail.png" width="100">
+</a> &nbsp;&nbsp;
 
 <a href="assets/example4.MP4">
-  <img src="assets/example4_thumbnail.png" width="100" style="border-radius:15px; margin:10px;">
-</a>
+  <img src="assets/example4_thumbnail.png" width="100">
+</a> &nbsp;&nbsp;
 
 <a href="assets/example5.MP4">
-  <img src="assets/example5_thumbnail.png" width="100" style="border-radius:15px; margin:10px;">
-</a>
+  <img src="assets/example5_thumbnail.png" width="100">
+</a> &nbsp;&nbsp;
 
 <a href="assets/example6.MP4">
-  <img src="assets/example6_thumbnail.png" width="100" style="border-radius:15px; margin:10px;">
+  <img src="assets/example6_thumbnail.png" width="100">
 </a>
 
 </p>
