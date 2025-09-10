@@ -3,30 +3,17 @@
 </p>
 
 <p align="center">
+  <video width="120" height="120" autoplay loop muted playsinline>
+    <source src="assets/example1.gif.mp4" type="video/mp4">
+  </video>
 
-  <a href="assets/example1.mp4">
-    <img src="assets/example1.gif" width="120" height="120" style="object-fit:cover;"/>
-  </a>
+  <video width="120" height="120" autoplay loop muted playsinline>
+    <source src="assets/example2.gif.mp4" type="video/mp4">
+  </video>
 
-  <a href="assets/example2.mp4">
-    <img src="assets/example2.gif" width="120" height="120" style="object-fit:cover;"/>
-  </a>
-
-  <a href="assets/example3.mp4">
-    <img src="assets/example3.gif" width="120" height="120" style="object-fit:cover;"/>
-  </a>
-
-  <a href="assets/example4.mp4">
-    <img src="assets/example4.gif" width="120" height="120" style="object-fit:cover;"/>
-  </a>
-
-  <a href="assets/example5.mp4">
-    <img src="assets/example5.gif" width="120" height="120" style="object-fit:cover;"/>
-  </a>
-
-  <a href="assets/example6.mp4">
-    <img src="assets/example6.gif" width="120" height="120" style="object-fit:cover;"/>
-  </a>
-
+  <video width="120" height="120" autoplay loop muted playsinline>
+    <source src="assets/example3.gif.mp4" type="video/mp4">
+  </video>
 </p>
+
 
