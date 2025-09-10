@@ -6,7 +6,7 @@
   <!-- Example 1 -->
   <a href="assets/example1.MP4" target="_blank">
     <video width="120" height="120" style="object-fit: cover;" autoplay loop muted>
-      <source src="assets/example1.gif.mp4" type="video/mp4">
+      <source src="assets/example1.gif" type="video/mp4">
       Tarayıcınız video etiketini desteklemiyor.
     </video>
   </a>
