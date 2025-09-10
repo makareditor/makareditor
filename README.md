@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="assets/example1.MP4"><img src="assets/example1_thumbnail.png" width="100" style="margin:5px;"></a>
+  <a href="assets/example1.mp4"><img src="assets/example1_thumb.png" width="100" style="margin:5px;"></a>
   <a href="assets/example2.MP4"><img src="assets/example2_thumbnail.png" width="100" style="margin:5px;"></a>
   <a href="assets/example3.MP4"><img src="assets/example3_thumbnail.png" width="100" style="margin:5px;"></a>
   <a href="assets/example4.MP4"><img src="assets/example4_thumbnail.png" width="100" style="margin:5px;"></a>
