@@ -4,12 +4,28 @@
 
 <p align="center">
 
-[![Example 1](assets/example1_thumbnail.png)](assets/example1.MP4) &nbsp;
-[![Example 2](assets/example2_thumbnail.png)](assets/example2.MP4) &nbsp;
-[![Example 3](assets/example3_thumbnail.png)](assets/example3.MP4) &nbsp;
-[![Example 4](assets/example4_thumbnail.png)](assets/example4.MP4) &nbsp;
-[![Example 5](assets/example5_thumbnail.png)](assets/example5.MP4) &nbsp;
-[![Example 6](assets/example6_thumbnail.png)](assets/example6.MP4)
+<a href="assets/example1.MP4">
+  <img src="assets/example1_thumbnail.png" width="120" style="border-radius:15px; box-shadow:0 0 10px #aaa; margin:5px;">
+</a>
+
+<a href="assets/example2.MP4">
+  <img src="assets/example2_thumbnail.png" width="120" style="border-radius:15px; box-shadow:0 0 10px #aaa; margin:5px;">
+</a>
+
+<a href="assets/example3.MP4">
+  <img src="assets/example3_thumbnail.png" width="120" style="border-radius:15px; box-shadow:0 0 10px #aaa; margin:5px;">
+</a>
+
+<a href="assets/example4.MP4">
+  <img src="assets/example4_thumbnail.png" width="120" style="border-radius:15px; box-shadow:0 0 10px #aaa; margin:5px;">
+</a>
+
+<a href="assets/example5.MP4">
+  <img src="assets/example5_thumbnail.png" width="120" style="border-radius:15px; box-shadow:0 0 10px #aaa; margin:5px;">
+</a>
+
+<a href="assets/example6.MP4">
+  <img src="assets/example6_thumbnail.png" width="120" style="border-radius:15px; box-shadow:0 0 10px #aaa; margin:5px;">
+</a>
 
 </p>
-
